@@ -1,6 +1,6 @@
 # Grid-Based Robot Navigation with A* and IDA* Algorithms
 
-This repository contains implementations of two advanced pathfinding algorithms—A* and IDA*—for grid-based robot navigation. The simulation demonstrates how these algorithms perform in environments with obstacles, allowing for comparison of their efficiency, path quality, and computational characteristics.
+This repository (CSE366_Assignment1) contains implementations of two advanced pathfinding algorithms—A* and IDA*—for grid-based robot navigation. The simulation demonstrates how these algorithms perform in environments with obstacles, allowing for comparison of their efficiency, path quality, and computational characteristics.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -27,12 +27,12 @@ This project explores pathfinding in grid-based environments using two advanced 
 
 1. Clone this repository to your local machine:
 ```
-git clone https://github.com/yourusername/pathfinding-algorithms.git
+git clone https://github.com/yourusername/CSE366_Assignment1.git
 ```
 
 2. Navigate to the repository:
 ```
-cd pathfinding-algorithms
+cd CSE366_Assignment1
 ```
 
 3. Install required dependencies:
